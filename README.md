@@ -1,0 +1,2 @@
+# festifun
+Fun with Django
