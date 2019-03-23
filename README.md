@@ -1,2 +1,3 @@
 # festifun
-Fun with Django
+
+Lets test out Django and Elasticsearch
