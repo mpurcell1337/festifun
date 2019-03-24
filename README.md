@@ -8,4 +8,4 @@
 - sudo apt-get here - https://www.elastic.co/guide/en/elasticsearch/reference/current/deb.html
 
 ### Django
-- Setup using virtualenv 
+- Setup using virtualenvwrapper / virtualenvwrapper-win
