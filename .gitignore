@@ -1,0 +1,8 @@
+# Folders
+festifun/__pycache__
+.vscode
+
+# File Types
+*.pyc
+*sqlite3
+
