@@ -50,7 +50,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'festifun.urls'
+ROOT_URLCONF = 'festifun.config.urls'
 
 TEMPLATES = [
     {
@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'festifun.wsgi.application'
+WSGI_APPLICATION = 'festifun.config.wsgi.application'
 
 
 # Database
